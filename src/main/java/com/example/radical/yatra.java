@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class yatra {
     @GetMapping("/yatra")
     public String getData(){
-        return "Welcome to yatra.com Please book your ticket";
+        return "Welcome to yatra.com !!!!Please book your ticket";
     }
 
 }
